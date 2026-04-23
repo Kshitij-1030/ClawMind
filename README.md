@@ -80,11 +80,9 @@ ClawMind/
 │       └── Arduino.ino
 ├── cad/
 │   └── *.step / *.stl
-├── schematics/
-│   ├── stepper_wiring.jpg
-│   └── dc_motor_wiring.jpg
-└── media/
-    └── (photos and video)
+└── schematics/
+    ├── stepper_wiring.jpg
+    └── dc_motor_wiring.jpg
 ```
 
 ---
@@ -133,8 +131,8 @@ Open `ClawMind.ino` in Arduino IDE, select **Arduino Nano** board and the correc
 | Name | Role |
 |---|---|
 | **Kshitij Kesharwani** | Software & Systems — CV pipeline, gesture detection, Raspberry Pi setup, HTTP relay, system architecture |
-| **Duna** | Electrical Engineering — motor drivers, Arduino firmware, circuit design, wiring, hardware debugging |
-| **Younji** | Mechanical Engineering — CAD design, 3D printing, physical assembly, gantry frame |
+| **Duna Areny Molne** | Electrical Engineering — motor drivers, Arduino firmware, circuit design, wiring, hardware debugging |
+| **Younji Kim** | Mechanical Engineering — CAD design, 3D printing, physical assembly, gantry frame |
 
 ---
 
@@ -151,4 +149,4 @@ The idea was born from Younji's vision of creating something interactive and fun
 
 ---
 
-*Built with 🧡 and way too little sleep.*
+*Built with ❤️ and way too little sleep.*
